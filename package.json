@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "node-notifier": "^10.0.1",
-    "node-windows": "1.0.0-beta.8",
-    "playwright": "^1.39.0"
+    "node-windows": "1.0.0-beta.8"
   }
 }
